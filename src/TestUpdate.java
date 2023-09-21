@@ -1,5 +1,4 @@
-
-import java.math.*;
+//import java.math.*;
 
 /**
  *  Tests Body class' update() method
